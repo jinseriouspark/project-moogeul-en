@@ -11,7 +11,6 @@ import torch.nn.functional as F
 from torch.optim import Adam
 from tqdm import tqdm
 from torch import nn
-from transformers import BertModel
 from transformers import AutoTokenizer
 
 import argparse
