@@ -35,7 +35,7 @@ graph TD
 
 ### Process
 
-| 내용 | 필요 데이터셋 | 필요 모델링 | 기타 필요항목 |
+| Content | Dataset | Modeling | Others |
 | --- | --- | --- | --- |
 | 1. Providing a ‘writing’ space for composing an essay when a word is entered | dictionary.com | - | gradio |
 | 2. Sentence-wise emotion label classification | Korean Sentiment Analysis Data (58,000 cases) + Simplified Labels (60 to 6) | xlm-roberta |  |
